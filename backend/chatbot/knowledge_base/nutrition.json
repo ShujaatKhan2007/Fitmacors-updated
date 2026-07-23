@@ -1,0 +1,356 @@
+{
+  "topics": [
+    {
+      "id": "protein",
+      "title": "Protein: Your Muscle-Building Foundation",
+      "keywords": ["protein", "proteins", "protein intake", "how much protein", "protein sources", "vegetarian protein", "protein food", "need protein", "best protein", "protein rich food"],
+      "answer": "Protein is the building block your body uses to repair and grow muscle tissue. Most active people do well with roughly 1.6-2.2g of protein per kilogram of bodyweight per day, with the higher end useful during a fat-loss phase to help protect muscle. Good sources include chicken, fish, eggs, Greek yogurt, cottage cheese, tofu, tempeh, lentils, and whey or plant-based protein powder.",
+      "tips": [
+        "Spread your protein across 3-4 meals instead of one big serving - your body uses it more efficiently that way.",
+        "Aim to include a protein source at every meal, not just dinner.",
+        "Protein powder is a convenient supplement, not a requirement - whole foods work great too."
+      ],
+      "dos": [
+        "Prioritize protein at breakfast to start the day strong.",
+        "Combine plant proteins (rice + beans, for example) to get a full amino acid profile.",
+        "Track your intake for a week if you're unsure whether you're hitting your target."
+      ],
+      "donts": [
+        "Don't rely on a single huge protein meal and skip it the rest of the day.",
+        "Don't assume more is always better - extreme excess offers no extra muscle-building benefit.",
+        "Don't ignore protein just because you're focused on losing weight - it's protective of your muscle."
+      ],
+      "example": "A simple high-protein day: eggs at breakfast, a chicken or tofu bowl at lunch, Greek yogurt as a snack, and fish or lean beef at dinner."
+    },
+    {
+      "id": "carbohydrates",
+      "title": "Carbohydrates: Your Body's Preferred Fuel",
+      "keywords": ["carbs", "carbohydrate", "carbohydrates", "how many carbs", "good carbs", "carb sources", "complex carbs", "foods for energy", "energy foods", "energy throughout the day", "best energy foods"],
+      "answer": "Carbohydrates are your body's most efficient energy source, especially for workouts. They get broken down into glucose, which fuels your muscles and brain. Complex carbs like oats, brown rice, quinoa, sweet potatoes, and whole-grain bread digest slowly and provide steady energy, while simple carbs like fruit or white rice digest fast and are great around workout time.",
+      "tips": [
+        "Time more of your carbs around your workouts - before for energy, after for recovery.",
+        "Choose whole, minimally processed carb sources most of the time.",
+        "Don't fear carbs - they're not inherently fattening; total calories matter most."
+      ],
+      "dos": [
+        "Pair carbs with protein and fiber to keep blood sugar stable.",
+        "Include vegetables and fruit as part of your daily carb intake.",
+        "Adjust carb amount based on your activity level - more active days can support more carbs."
+      ],
+      "donts": [
+        "Don't cut carbs to near-zero unless medically advised - it can tank workout performance.",
+        "Don't rely mainly on sugary drinks and snacks for your carb intake.",
+        "Don't skip carbs before an intense training session and expect to perform well."
+      ],
+      "example": "A solid pre-workout carb choice: a banana with a bit of honey, or oats with berries about 60-90 minutes before training."
+    },
+    {
+      "id": "healthy-fats",
+      "title": "Healthy Fats: Essential, Not Optional",
+      "keywords": ["healthy fats", "fat intake", "dietary fat", "good fats", "fat sources", "omega 3", "avocado fat"],
+      "answer": "Dietary fat is essential for hormone production, joint health, and absorbing vitamins A, D, E, and K. A good target is around 20-30% of daily calories from fat, prioritizing unsaturated sources. Great options include olive oil, avocado, nuts, seeds, and fatty fish like salmon, which also provide omega-3s that support recovery and heart health.",
+      "tips": [
+        "Don't go below about 0.5g of fat per kilogram of bodyweight, even when cutting calories.",
+        "Favor unsaturated fats over heavily processed, fried, or fast food fats.",
+        "Nuts and nut butters are calorie-dense - a small handful goes a long way."
+      ],
+      "dos": [
+        "Include a fat source with meals to help absorb fat-soluble vitamins.",
+        "Choose olive oil or avocado oil for cooking when possible.",
+        "Eat fatty fish like salmon or sardines a couple of times a week."
+      ],
+      "donts": [
+        "Don't eliminate fat entirely to save calories - it backfires on hormones and satiety.",
+        "Don't rely mainly on trans fats or heavily fried foods for your fat intake.",
+        "Don't overlook portion size on calorie-dense fats like oils and nuts."
+      ],
+      "example": "Add a tablespoon of olive oil to a salad, or a quarter avocado to a sandwich, for an easy healthy-fat boost."
+    },
+    {
+      "id": "fiber",
+      "title": "Fiber: The Underrated Macronutrient",
+      "keywords": ["fiber", "fibre", "high fiber food", "fiber intake", "digestion food"],
+      "answer": "Fiber supports digestion, keeps you fuller for longer, and helps stabilize blood sugar. Most adults benefit from around 25-35g of fiber per day, but many people fall short. Great sources include vegetables, fruit, legumes, oats, and whole grains.",
+      "tips": [
+        "Increase fiber gradually to avoid digestive discomfort.",
+        "Drink extra water as you increase fiber intake.",
+        "Vegetables are one of the most calorie-efficient ways to boost fiber."
+      ],
+      "dos": [
+        "Aim for a vegetable or fruit serving with most meals.",
+        "Choose whole grains over refined grains when possible.",
+        "Add legumes like lentils or chickpeas to meals a few times a week."
+      ],
+      "donts": [
+        "Don't spike your fiber intake overnight - ease into it.",
+        "Don't rely only on fiber supplements instead of whole foods.",
+        "Don't ignore fiber just because it's not a 'macro' you're tracking."
+      ],
+      "example": "Swap white rice for brown rice or quinoa at dinner to add several extra grams of fiber effortlessly."
+    },
+    {
+      "id": "meal-timing",
+      "title": "Meal Timing: Does It Really Matter?",
+      "keywords": ["meal timing", "when to eat", "meal frequency", "how many meals", "eating schedule", "diet tip", "7 day diet", "week diet plan", "diet advice", "diet tips"],
+      "answer": "Total daily calories and macros matter far more than exact meal timing for most goals. That said, meal timing can still help with performance, hunger management, and consistency. Eating 3-5 meals spaced every 3-5 hours tends to work well for most people, keeping energy and hunger stable throughout the day.",
+      "tips": [
+        "Pick a meal frequency that fits your schedule and appetite - there's no single 'correct' number.",
+        "Avoid skipping meals only to overeat later.",
+        "Consistency day-to-day matters more than a 'perfect' schedule."
+      ],
+      "dos": [
+        "Eat a substantial meal within a couple of hours of waking if that suits your schedule.",
+        "Space meals to avoid extreme hunger swings.",
+        "Adjust timing around your training for better energy and recovery."
+      ],
+      "donts": [
+        "Don't stress over eating at exact clock times.",
+        "Don't skip meals purely to 'save up' calories for a late binge.",
+        "Don't assume intermittent fasting is required for fat loss - it's just one option among many."
+      ],
+      "example": "A common working schedule: breakfast at 7am, lunch at 12pm, a snack at 3pm, and dinner at 7pm."
+    },
+    {
+      "id": "pre-workout-nutrition",
+      "title": "Pre-Workout Nutrition: Fueling Your Session",
+      "keywords": ["pre workout", "before workout", "eat before workout", "pre workout meal", "what to eat before training", "pre workout nutrition"],
+      "answer": "Eating before training gives your muscles the fuel they need to perform well. A meal with carbs and a moderate amount of protein 1-3 hours before training works well for most people. If you're training very soon, a small, easily digestible snack 30-45 minutes prior is a better fit than a heavy meal.",
+      "tips": [
+        "The closer to your workout, the smaller and simpler the meal should be.",
+        "Carbs are the priority pre-workout; keep fat and fiber lower to avoid sluggishness.",
+        "Hydrate well in the hours leading up to training, not just right before."
+      ],
+      "dos": [
+        "Try oats, a banana, or toast with honey for a light pre-workout snack.",
+        "Include some protein if you have 2+ hours before training.",
+        "Experiment to find what sits well in your stomach."
+      ],
+      "donts": [
+        "Don't eat a huge, high-fat meal right before an intense session.",
+        "Don't train on a completely empty stomach if you notice it hurts performance.",
+        "Don't try a brand-new food right before an important workout or event."
+      ],
+      "example": "90 minutes before a lift: grilled chicken with rice. 30 minutes before: just a banana."
+    },
+    {
+      "id": "post-workout-nutrition",
+      "title": "Post-Workout Nutrition: Kickstarting Recovery",
+      "keywords": ["post workout", "after workout", "eat after workout", "post workout meal", "what to eat after training", "post workout nutrition", "recovery meal"],
+      "answer": "After training, your body is primed to replenish energy stores and repair muscle tissue. A meal with both protein and carbs within a couple of hours of finishing your workout supports recovery well. The classic 30-minute 'anabolic window' isn't as strict as once believed - what matters most is getting a good meal in reasonably soon.",
+      "tips": [
+        "Aim for roughly 20-40g of protein post-workout to support muscle repair.",
+        "Pair it with carbs to help refill glycogen (energy) stores, especially after intense or long sessions.",
+        "Don't panic if you can't eat immediately - a couple of hours' window is fine."
+      ],
+      "dos": [
+        "Have a protein shake with fruit if you can't get a full meal right away.",
+        "Prioritize a real meal with protein and carbs within 1-2 hours when possible.",
+        "Rehydrate with water (and electrolytes after heavy sweating) post-workout."
+      ],
+      "donts": [
+        "Don't skip post-workout food entirely, especially after intense training.",
+        "Don't stress if the timing isn't perfect - overall daily intake matters most.",
+        "Don't rely only on supplements when whole food is available."
+      ],
+      "example": "A simple post-workout meal: grilled chicken, rice, and vegetables, or a protein shake with a banana if you're short on time."
+    },
+    {
+      "id": "fat-loss",
+      "title": "Fat Loss: Tips to Lose Body Fat Effectively",
+      "keywords": ["fat loss", "lose fat", "lose weight", "losing weight", "cutting", "burn fat", "weight loss tips", "reduce body fat"],
+      "answer": "Fat loss ultimately comes down to a consistent calorie deficit - eating somewhat less than your body burns over time. The most effective approach combines a moderate deficit (around 15-25% below maintenance), a high-protein diet to preserve muscle, regular strength training, and patience, since sustainable fat loss is usually slow.",
+      "tips": [
+        "Aim for roughly 0.5-1% of bodyweight lost per week for a sustainable pace.",
+        "Keep protein high to protect muscle mass while in a deficit.",
+        "Track progress with more than just the scale - photos and measurements help too."
+      ],
+      "dos": [
+        "Keep strength training in your routine to preserve muscle while losing fat.",
+        "Prioritize whole, filling foods to manage hunger on fewer calories.",
+        "Be consistent over weeks and months rather than chasing quick fixes."
+      ],
+      "donts": [
+        "Don't slash calories too aggressively - it often backfires with muscle loss and burnout.",
+        "Don't rely on fad diets or 'detoxes' that aren't sustainable.",
+        "Don't judge progress from a single day's scale weight - it naturally fluctuates."
+      ],
+      "example": "If your maintenance is roughly 2,400 kcal, a moderate deficit of around 400-500 kcal/day would put you near 1,900-2,000 kcal for steady fat loss."
+    },
+    {
+      "id": "muscle-gain",
+      "title": "Muscle Gain: Building Size the Smart Way",
+      "keywords": ["muscle gain", "build muscle", "gain muscle", "muscle building", "how to build muscle faster", "grow muscle"],
+      "answer": "Building muscle requires three ingredients working together: a slight calorie surplus, enough protein (around 1.6-2.2g/kg bodyweight), and progressive resistance training that challenges your muscles over time. Muscle grows in response to the recovery process after training, so sleep and rest days matter just as much as the workouts themselves.",
+      "tips": [
+        "Progressive overload - gradually lifting more weight or doing more reps - is the main driver of growth.",
+        "A modest surplus (around 5-15% above maintenance) minimizes unnecessary fat gain.",
+        "Muscle growth is slow and steady - expect meaningful visible change over months, not days."
+      ],
+      "dos": [
+        "Train each major muscle group at least twice per week for best results.",
+        "Prioritize compound lifts like squats, presses, and rows.",
+        "Get 7-9 hours of sleep to support recovery and growth hormone release."
+      ],
+      "donts": [
+        "Don't eat in a massive surplus expecting faster 'bonus' muscle - it mostly adds fat.",
+        "Don't chase muscle soreness as the marker of a good workout.",
+        "Don't neglect recovery by training the same muscles every single day."
+      ],
+      "example": "A beginner following a structured 3-4 day full-body or upper/lower program with a slight surplus can often build noticeable muscle within 8-12 weeks."
+    },
+    {
+      "id": "lean-bulking",
+      "title": "Lean Bulking: Gaining Muscle Without Excess Fat",
+      "keywords": ["lean bulk", "lean bulking", "clean bulk", "gain muscle without fat", "slow bulk"],
+      "answer": "Lean bulking means gaining weight slowly and deliberately to build muscle while minimizing fat gain. This usually means a small calorie surplus of around 5-10% above maintenance, high protein intake, and consistent progressive resistance training - accepting slower progress in exchange for a better muscle-to-fat ratio.",
+      "tips": [
+        "Expect roughly 0.25-0.5kg of gain per week as a reasonable lean-bulk pace.",
+        "Recalculate your calorie target every few weeks as your weight increases.",
+        "Track strength progress - if lifts aren't improving, the surplus or program may need adjusting."
+      ],
+      "dos": [
+        "Keep protein high throughout your lean bulk to prioritize muscle over fat gain.",
+        "Prioritize progressive overload in your training to make the surplus 'count.'",
+        "Reassess and adjust calories periodically as your weight and activity change."
+      ],
+      "donts": [
+        "Don't jump into a large surplus hoping to 'speed up' the process.",
+        "Don't neglect cardio entirely - some helps maintain conditioning and heart health.",
+        "Don't get discouraged by the slower pace - it pays off in body composition."
+      ],
+      "example": "Someone with a 2,400 kcal maintenance might eat around 2,600-2,650 kcal daily during a lean bulk."
+    },
+    {
+      "id": "healthy-weight-gain",
+      "title": "Healthy Weight Gain for Underweight Individuals",
+      "keywords": ["healthy weight gain", "gain weight", "underweight", "how to gain weight", "put on weight"],
+      "answer": "For those who are underweight, healthy weight gain focuses on a consistent calorie surplus from nutrient-dense foods, paired with resistance training so the added weight is mostly muscle rather than just fat. Frequent, calorie-dense meals can help when appetite is a limiting factor.",
+      "tips": [
+        "Add calorie-dense foods like nuts, nut butter, olive oil, and dried fruit to meals.",
+        "Liquid calories (smoothies, milk) can help if solid food feels like too much.",
+        "Pair the surplus with resistance training to direct the gain toward muscle."
+      ],
+      "dos": [
+        "Eat more frequently if large meals feel difficult to finish.",
+        "Track your weight weekly to confirm you're actually gaining.",
+        "Be patient - healthy weight gain, like fat loss, takes consistent weeks."
+      ],
+      "donts": [
+        "Don't rely only on junk food to hit a calorie surplus - nutrient quality still matters.",
+        "Don't skip resistance training and expect a lean physique from the extra calories.",
+        "Don't compare your pace to someone else's - individual metabolism varies."
+      ],
+      "example": "Adding a peanut butter and banana smoothie between meals is an easy way to add 300-400 extra calories."
+    },
+    {
+      "id": "vegetarian-protein",
+      "title": "Vegetarian Protein Sources",
+      "keywords": ["vegetarian protein", "plant protein", "vegan protein", "protein without meat", "meatless protein sources"],
+      "answer": "Plant-based diets can absolutely provide enough protein to build and maintain muscle. Great vegetarian sources include lentils, chickpeas, black beans, tofu, tempeh, edamame, Greek yogurt, cottage cheese, eggs (if lacto-ovo vegetarian), quinoa, and plant-based protein powders.",
+      "tips": [
+        "Combine different plant proteins (like rice and beans) across the day for a complete amino acid profile.",
+        "Tofu and tempeh are versatile and absorb flavor well - great in stir-fries or bowls.",
+        "Plant-based protein powder can help close the gap if whole foods alone fall short."
+      ],
+      "dos": [
+        "Include a variety of legumes, soy foods, and dairy or eggs if included in your diet.",
+        "Plan meals around a protein source first, then build the rest around it.",
+        "Track intake for a few days to confirm you're consistently hitting your target."
+      ],
+      "donts": [
+        "Don't assume plant-based automatically means low protein - it just takes some planning.",
+        "Don't rely solely on bread, pasta, or rice for protein - they're low in it.",
+        "Don't ignore B12 and iron, which need more attention on a fully plant-based diet."
+      ],
+      "example": "A high-protein vegetarian bowl: quinoa, black beans, tofu, and a side of Greek yogurt can easily provide 35-45g of protein."
+    },
+    {
+      "id": "healthy-snacks",
+      "title": "Healthy Snack Ideas",
+      "keywords": ["healthy snacks", "snack ideas", "good snacks", "snacks for fitness", "protein snacks"],
+      "answer": "Good snacks bridge the gap between meals without derailing your goals - ideally combining protein, fiber, or healthy fat to keep you satisfied. Think Greek yogurt with berries, a handful of almonds, hummus with veggies, a protein shake, or hard-boiled eggs.",
+      "tips": [
+        "Pre-portion snacks so it's easy to stay mindful of quantity.",
+        "Pair carbs with protein or fat to avoid a quick energy crash.",
+        "Keep a few go-to snacks on hand so you're not caught hungry with only junk food around."
+      ],
+      "dos": [
+        "Choose whole foods over heavily processed snack products when possible.",
+        "Use fruit as a naturally sweet, fiber-rich snack option.",
+        "Prep snacks in advance for busy days."
+      ],
+      "donts": [
+        "Don't mindlessly snack straight from a large bag or box.",
+        "Don't skip meals and rely only on snacks to get through the day.",
+        "Don't assume 'healthy' snack bars are automatically low-calorie - check labels."
+      ],
+      "example": "A balanced snack: apple slices with a tablespoon of peanut butter, or a small container of cottage cheese with pineapple."
+    },
+    {
+      "id": "healthy-breakfast",
+      "title": "Healthy Breakfast Ideas",
+      "keywords": ["healthy breakfast", "breakfast ideas", "what to eat for breakfast", "breakfast for muscle gain", "protein breakfast"],
+      "answer": "A good breakfast sets the tone for the day, ideally combining protein, fiber, and some healthy fat to keep you full and energized. Great options include eggs with vegetables and whole-grain toast, Greek yogurt with fruit and granola, or oats topped with nut butter and berries.",
+      "tips": [
+        "Prioritize protein at breakfast - it's often the most overlooked meal for it.",
+        "Prep components (like overnight oats or hard-boiled eggs) the night before for busy mornings.",
+        "If you're not hungry early, that's fine too - eat when it suits you."
+      ],
+      "dos": [
+        "Include a fruit or vegetable serving if possible.",
+        "Choose whole grains over heavily sweetened cereals.",
+        "Adjust portion size to your activity level for the day."
+      ],
+      "donts": [
+        "Don't rely only on sugary pastries or cereal, which spike and crash energy.",
+        "Don't force yourself to eat a huge breakfast if it doesn't suit your appetite.",
+        "Don't skip breakfast entirely just because you're 'too busy' - a quick option still helps."
+      ],
+      "example": "Muscle-gain breakfast: 3 eggs, oats with banana, and a glass of milk covers protein, carbs, and healthy fat well."
+    },
+    {
+      "id": "healthy-lunch",
+      "title": "Healthy Lunch Ideas",
+      "keywords": ["healthy lunch", "lunch ideas", "what to eat for lunch", "lunch for fitness", "meal prep lunch"],
+      "answer": "A solid lunch keeps energy steady through the afternoon by combining protein, complex carbs, and vegetables. Think a grilled chicken and rice bowl with vegetables, a big salad topped with beans or tofu, or a turkey and whole-grain wrap with plenty of veggies.",
+      "tips": [
+        "Meal prep lunches in batches on a day off to save time during the week.",
+        "Balance the plate: roughly a palm of protein, a fist of carbs, and generous vegetables.",
+        "Avoid extremely heavy, high-fat lunches that leave you sluggish in the afternoon."
+      ],
+      "dos": [
+        "Include a vegetable serving to boost fiber and micronutrients.",
+        "Choose whole grains like brown rice or quinoa over refined options.",
+        "Bring lunch from home when possible to control ingredients and portions."
+      ],
+      "donts": [
+        "Don't skip lunch and try to 'make up for it' with a huge dinner.",
+        "Don't rely on fast food as your default lunch option.",
+        "Don't forget protein just because it's midday - it matters at every meal."
+      ],
+      "example": "Meal-prepped lunch: grilled chicken, roasted sweet potato, and steamed broccoli in a single container."
+    },
+    {
+      "id": "healthy-dinner",
+      "title": "Healthy Dinner Ideas",
+      "keywords": ["healthy dinner", "dinner ideas", "what to eat for dinner", "dinner for fitness", "evening meal ideas"],
+      "answer": "Dinner is a great place to round out your day's protein and vegetable intake. Good options include baked salmon with roasted vegetables, a stir-fry with lean protein and lots of colorful veggies over rice, or a lean beef or lentil chili.",
+      "tips": [
+        "Keep portions reasonable if dinner tends to be your biggest meal.",
+        "Include vegetables generously - dinner is an easy place to add volume without many calories.",
+        "If eating close to bedtime, favor lighter, easily digestible options."
+      ],
+      "dos": [
+        "Balance protein, carbs, and vegetables just like at other meals.",
+        "Cook extra for easy leftovers the next day.",
+        "Wind down heavy, greasy takeout in favor of home-cooked options most nights."
+      ],
+      "donts": [
+        "Don't 'save up' all your calories for one massive dinner.",
+        "Don't assume carbs at dinner are bad - total daily intake is what matters.",
+        "Don't skip vegetables at dinner just because you had some earlier - more is fine."
+      ],
+      "example": "A balanced dinner: grilled salmon, roasted asparagus, and a small serving of quinoa."
+    }
+  ]
+}
