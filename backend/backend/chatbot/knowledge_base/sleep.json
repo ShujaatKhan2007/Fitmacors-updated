@@ -1,0 +1,48 @@
+{
+  "topics": [
+    {
+      "id": "sleep-and-fitness",
+      "title": "Sleep: The Most Underrated Fitness Tool",
+      "keywords": ["sleep", "how important is sleep", "sleep and fitness", "sleep for muscle growth", "sleep recovery"],
+      "answer": "Sleep is when a huge amount of muscle repair and growth hormone release happens, making it just as important as training and nutrition for progress. Most adults need 7-9 hours per night, and consistently falling short can hurt strength, recovery, fat loss, and mood.",
+      "tips": [
+        "Aim for a consistent sleep and wake time, even on weekends.",
+        "Poor sleep can increase hunger hormones, making fat loss harder.",
+        "Quality matters as much as quantity - deep, uninterrupted sleep counts most."
+      ],
+      "dos": [
+        "Keep your bedroom cool, dark, and quiet for better sleep quality.",
+        "Limit caffeine in the afternoon and evening.",
+        "Wind down with a consistent pre-sleep routine."
+      ],
+      "donts": [
+        "Don't sacrifice sleep to fit in an extra late-night workout regularly.",
+        "Don't rely on caffeine to mask chronic under-sleeping.",
+        "Don't scroll on bright screens right up until you try to fall asleep."
+      ],
+      "example": "Someone sleeping 5-6 hours a night often sees slower strength gains and recovery than someone getting a consistent 7-9 hours, even with identical training."
+    },
+    {
+      "id": "sleep-quality",
+      "title": "Improving Sleep Quality",
+      "keywords": ["improve sleep quality", "sleep better", "sleep tips", "trouble sleeping", "better sleep habits"],
+      "answer": "Sleep quality depends heavily on your environment and pre-sleep habits. A cool, dark, quiet room, a consistent wind-down routine, and limiting stimulants late in the day all support deeper, more restorative sleep.",
+      "tips": [
+        "Keep your bedroom around 18-20°C (65-68°F) for optimal sleep temperature.",
+        "Blackout curtains or an eye mask can significantly improve sleep depth.",
+        "A short, consistent wind-down routine signals your brain that it's time to rest."
+      ],
+      "dos": [
+        "Get natural light exposure during the day to support your circadian rhythm.",
+        "Keep a consistent sleep and wake schedule, even on days off.",
+        "Reserve your bed mainly for sleep, helping your brain associate it with rest."
+      ],
+      "donts": [
+        "Don't consume caffeine within 6-8 hours of bedtime.",
+        "Don't exercise very intensely right before bed if it disrupts your sleep.",
+        "Don't rely on alcohol as a sleep aid - it often reduces sleep quality."
+      ],
+      "example": "Swapping late-night phone scrolling for reading a physical book can noticeably improve how quickly you fall asleep."
+    }
+  ]
+}
