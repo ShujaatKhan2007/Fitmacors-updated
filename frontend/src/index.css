@@ -1,0 +1,113 @@
+/* ==========================================================================
+   index.css
+   Global reset + design tokens.
+   Every color, font, radius and shadow used across the app is defined once
+   here as a CSS custom property (variable), so the whole look can be
+   changed from a single place.
+   ========================================================================== */
+
+:root {
+  /* ---- Color palette ---------------------------------------------------
+     A "measured, athletic" palette: deep pine greens grounded by a soft
+     sage-white background, with a single citrus-lime accent reserved for
+     calls to action and highlights. Coral is used sparingly for warmth
+     (e.g. the "fat" macro, the cut goal).
+  ------------------------------------------------------------------------- */
+  --color-bg: #f4f6f1;
+  --color-surface: #ffffff;
+  --color-surface-alt: #eef2e9;
+
+  --color-primary: #16302a;      /* deep pine - headings, primary text */
+  --color-primary-light: #2f6f4e; /* mid forest green */
+  --color-primary-soft: #d9e6dc;  /* pale green for subtle fills */
+
+  --color-accent: #c6f135;       /* citrus lime - CTA, highlights */
+  --color-accent-dark: #9fc41f;  /* pressed / hover state for accent */
+  --color-coral: #ff6b5b;        /* warm accent for fat / cut goal */
+  --color-sky: #3fa0c9;          /* cool accent for water / carbs */
+
+  --color-text: #16302a;
+  --color-text-muted: #5c6b64;
+  --color-border: #e1e7db;
+
+  --color-error-bg: #fdecea;
+  --color-error-text: #b3261e;
+  --color-error-border: #f4c7c3;
+
+  /* ---- Typography -------------------------------------------------------
+     Display face: Space Grotesk (confident, geometric - used for headings)
+     Body face: Inter (clean and highly readable)
+     Data face: JetBrains Mono (used for numeric readouts - gives the
+     numbers a "measured instrument" feel appropriate for a data-driven
+     nutrition tool).
+  ------------------------------------------------------------------------- */
+  --font-display: "Space Grotesk", "Segoe UI", sans-serif;
+  --font-body: "Inter", "Segoe UI", sans-serif;
+  --font-data: "JetBrains Mono", "Courier New", monospace;
+
+  /* ---- Layout tokens ------------------------------------------------- */
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+
+  --shadow-sm: 0 2px 8px rgba(22, 48, 42, 0.06);
+  --shadow-md: 0 8px 24px rgba(22, 48, 42, 0.09);
+  --shadow-lg: 0 16px 40px rgba(22, 48, 42, 0.14);
+
+  --max-width: 1120px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+  color: var(--color-primary);
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* Visible keyboard focus ring for accessibility. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 3px solid var(--color-accent-dark);
+  outline-offset: 2px;
+}
+
+/* Respect users who prefer reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

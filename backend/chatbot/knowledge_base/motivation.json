@@ -1,0 +1,92 @@
+{
+  "topics": [
+    {
+      "id": "motivation",
+      "title": "Staying Motivated on Your Fitness Journey",
+      "keywords": ["motivation", "stay motivated", "give me motivation", "lack motivation", "motivate me", "fitness motivation"],
+      "answer": "Motivation naturally rises and falls - that's completely normal, and relying on it alone is a shaky foundation for a long-term habit. What actually carries people through is a mix of clear goals, tracked progress, and systems that make showing up easy, even on low-motivation days.",
+      "tips": [
+        "Focus on small, specific goals rather than only the big picture end result.",
+        "Celebrate small wins - a completed workout, a new personal best, a healthy meal choice.",
+        "Remember that showing up on hard days is what actually builds the habit."
+      ],
+      "dos": [
+        "Track your progress somewhere visible - a journal, app, or photos.",
+        "Set a consistent schedule so workouts become a default, not a decision.",
+        "Reflect on why you started when motivation dips."
+      ],
+      "donts": [
+        "Don't wait to 'feel motivated' before starting - action often creates motivation, not the other way around.",
+        "Don't compare your journey to someone else's highlight reel.",
+        "Don't let one missed workout spiral into giving up entirely."
+      ],
+      "example": "You're building something real: the fact that you're asking these questions and showing up to learn already puts you ahead. Keep going - future you will thank present you. 💪"
+    },
+    {
+      "id": "consistency",
+      "title": "Consistency: The Real Secret to Results",
+      "keywords": ["consistency", "stay consistent", "how to be consistent", "consistency tips", "fitness journey consistency"],
+      "answer": "Consistency beats intensity almost every time. A moderately good program followed consistently for months will outperform a 'perfect' program followed for two weeks. Building sustainable habits - realistic workout frequency, food you actually enjoy - makes consistency far easier to maintain.",
+      "tips": [
+        "Aim for 'good enough and repeatable' over 'perfect but unsustainable.'",
+        "Schedule workouts like appointments you wouldn't skip.",
+        "Plan for setbacks - life happens, and getting back on track matters more than never slipping."
+      ],
+      "dos": [
+        "Pick a training frequency you can realistically maintain long-term.",
+        "Build flexibility into your plan for busy weeks.",
+        "Focus on trends over months, not single days."
+      ],
+      "donts": [
+        "Don't chase extreme, unsustainable routines that burn you out in weeks.",
+        "Don't let one bad day or missed workout turn into giving up entirely.",
+        "Don't judge your consistency by unrealistic, all-or-nothing standards."
+      ],
+      "example": "Three solid workouts a week, every week, for a year will produce far more progress than an all-out 6-day plan you quit after a month."
+    },
+    {
+      "id": "fitness-myths",
+      "title": "Common Fitness Myths, Debunked",
+      "keywords": ["fitness myths", "workout myths", "nutrition myths", "gym myths", "fitness misconceptions"],
+      "answer": "Fitness is full of persistent myths. A few big ones: 'lifting weights makes women bulky' (it doesn't - significant muscle gain takes deliberate, sustained effort), 'you can spot-reduce fat' (you can't - fat loss happens overall, not in one targeted area), and 'carbs make you fat' (excess calories, not carbs specifically, drive fat gain).",
+      "tips": [
+        "Be skeptical of any claim promising extremely fast, effortless results.",
+        "Look for consistent, evidence-based advice rather than trends and fads.",
+        "When in doubt, simple and sustainable habits usually beat complicated 'hacks.'"
+      ],
+      "dos": [
+        "Question extraordinary claims and look for the reasoning behind advice.",
+        "Focus on the fundamentals: consistent training, adequate protein, a sensible calorie target, and sleep.",
+        "Ask a qualified coach or trusted source if you're unsure about a claim."
+      ],
+      "donts": [
+        "Don't fall for 'detox' teas, extreme fasting protocols, or miracle supplements.",
+        "Don't believe you can target fat loss to one specific body part through certain exercises.",
+        "Don't assume more pain or more soreness always means a better workout."
+      ],
+      "example": "Doing hundreds of crunches won't specifically burn belly fat - overall fat loss through a calorie deficit is what reveals ab muscles."
+    },
+    {
+      "id": "healthy-lifestyle",
+      "title": "Building a General Healthy Lifestyle",
+      "keywords": ["healthy lifestyle", "general health tips", "how to be healthier", "healthy habits"],
+      "answer": "A genuinely healthy lifestyle is built from several pillars working together: consistent movement, balanced nutrition, quality sleep, hydration, and stress management. None of these need to be perfect - small, sustainable improvements across all of them tend to beat perfecting just one.",
+      "tips": [
+        "Pick one habit at a time to improve rather than overhauling everything at once.",
+        "Sleep and stress management are just as important as diet and exercise, though often overlooked.",
+        "Build habits around your actual life, not an idealized version of it."
+      ],
+      "dos": [
+        "Aim for regular movement, balanced meals, and consistent sleep as your foundation.",
+        "Make time for activities that manage stress - whatever genuinely works for you.",
+        "Reassess and adjust your habits every few months as life changes."
+      ],
+      "donts": [
+        "Don't try to change every habit at once - it rarely sticks.",
+        "Don't neglect sleep and stress while only focusing on diet and exercise.",
+        "Don't chase perfection - aim for 'better than before,' consistently."
+      ],
+      "example": "Improving sleep from 5 to 7 hours a night often has a bigger overall health impact than fine-tuning macros to the gram."
+    }
+  ]
+}
